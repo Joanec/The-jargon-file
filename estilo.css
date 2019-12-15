@@ -1,8 +1,9 @@
+**************CUERPO**************
 body {
     background-color: hsl(198, 50%, 85%);
     font-family: sans-serif;
 }
-
+**TITULOS**
 h1 {
     font-size: 3rem;
     text-align: center;
@@ -20,21 +21,21 @@ h3 {
     color: white;
     font-size: 1.5rem;
 }
-
+**PARRAFO**
 p {
     text-align: justify;
 }
-
+**CITA TEXTUAL**
 blockquote {
     font-style: oblique;
 }
-
+**TEXTO PREFORMATEADO**
 pre {
     background-color: white;
     font-size: 1rem;
     font-weight: bold;
 }
-
+**CONTACTO**
 address {
     font-family: serif;
     font-style: normal;
