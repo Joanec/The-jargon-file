@@ -1,14 +1,17 @@
-**************CUERPO**************
-body {
-    background-color: hsl(198, 50%, 85%);
-    font-family: sans-serif;
+/**********CUERPO**********/
+
+body {  
+     font-family: sans-serif;
+     background-color: hsl(198, 50%, 85%);
 }
-**TITULOS**
-h1 {
-    font-size: 3rem;
-    text-align: center;
-    text-decoration: underline;
-    text-transform: uppercase;
+
+/**********TITULOS**********/
+
+h1  {
+     font-size: 3rem;
+     text-align: center;
+     text-transform: uppercase;
+     text-decoration: underline;
 }
 
 h2 {
@@ -21,21 +24,26 @@ h3 {
     color: white;
     font-size: 1.5rem;
 }
-**PARRAFO**
+/**********PARRAFOS**********/
+
 p {
     text-align: justify;
 }
-**CITA TEXTUAL**
+
+/**********TEXTOS/CITAS**********/
+
 blockquote {
     font-style: oblique;
 }
-**TEXTO PREFORMATEADO**
+
 pre {
     background-color: white;
     font-size: 1rem;
     font-weight: bold;
 }
-**CONTACTO**
+
+/**********CONTACTO**********/
+
 address {
     font-family: serif;
     font-style: normal;
